@@ -55,7 +55,7 @@ Developed games using Love2d game framework  using Lua language
 ## Love2d and handheld devices
 
 <p align="center">
-  <img src="./img/R36s-Love2d-GameEngine-Lua?raw=true">
+  <img src="./img/R36s-Love2d-GameEngine-Lua.png?raw=true">
 </p>
 
 https://github.com/RobertoFreireDev/R36s-Love2d-GameEngine-Lua
