@@ -64,7 +64,7 @@ https://github.com/RobertoFreireDev/R36s-Love2d-GameEngine-Lua
 
 I developed some indie pixel art games using the Lua programming language and PICO8
 
-online version: [https://www.lexaloffle.com/bbs/?tid=142633](https://www.lexaloffle.com/bbs/?uid=92611)
+online version: [Pico8 games](https://www.lexaloffle.com/bbs/?uid=92611)
 
 <p align="center">
   <img src="./img/pico8.png?raw=true">
@@ -72,4 +72,8 @@ online version: [https://www.lexaloffle.com/bbs/?tid=142633](https://www.lexalof
 
 <p align="center">
   <img src="./img/aipico8game.png?raw=true">
+</p>
+
+<p align="center">
+  <img src="./img/pico8puzzlegame.png?raw=true">
 </p>
