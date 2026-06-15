@@ -1,8 +1,6 @@
 # Hobby-Game-Development
 
-## I created my own Game Engine in C#
-
-### Final version
+## Game Engine in C#
 
 <p align="center">
   <img src="./img/Black-Box.png?raw=true">
