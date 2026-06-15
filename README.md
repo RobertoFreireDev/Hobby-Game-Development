@@ -8,7 +8,7 @@
   <img src="./img/Black-Box.png?raw=true">
 </p>
 
-[https://github.com/RobertoFreireDev/Game-Engine](https://roberto-freire.itch.io/blackbox)
+[download file](https://roberto-freire.itch.io/blackbox)
 
 ### Redoing from scratch 
 
